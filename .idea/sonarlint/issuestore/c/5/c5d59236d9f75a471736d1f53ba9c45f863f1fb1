@@ -1,0 +1,11 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â‡ª¡
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÊÕ¦ýÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÀŽ*
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8Ö—Èé°/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á¤ÿ™

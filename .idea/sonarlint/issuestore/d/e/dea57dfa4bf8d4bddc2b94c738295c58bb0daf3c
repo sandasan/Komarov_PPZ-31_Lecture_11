@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•àêæûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì­­–øÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(­¡‹­üÿÿÿÿ
+o
+java:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÍèÕ‡
+X
+java:S1854:"BRemove this useless assignment to local variable "removedElement".(£ĞÎ‘
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Úàä
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(³ÀÖÙ
+I
+java:S1481:"3Remove this unused "removedElement" local variable.(£ĞÎ‘
+o
+java:S3012="YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÍèÕ‡
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Á÷ıÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Ù€øáüÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÌØè£
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Ü‚õ
